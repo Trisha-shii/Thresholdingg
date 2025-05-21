@@ -26,6 +26,9 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 
+DEVELOPED BY : TRISHA PRIYADARSHNI PARIDA
+REG NO : 212224230293
+
 ```python
 import cv2
 import matplotlib.pyplot as plt
